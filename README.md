@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="sarwesh2003" /> </p>
 
+<p align="left"> <a href="https://twitter.com/_int_32" target="blank"><img src="https://img.shields.io/twitter/follow/_int_32?logo=twitter&style=for-the-badge" alt="_int_32" /></a> </p>
+
 - 🌱 I’m currently learning **Data Structures and Algorithms, DevOps, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarwesh2003](https://github.com/Sarwesh2003)
@@ -33,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwesh2003&show_icons=true&locale=en&layout=compact" alt="sarwesh2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwesh2003&show_icons=true&locale=en" alt="sarwesh2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwesh2003&" alt="sarwesh2003" /></p>
