@@ -1,6 +1,7 @@
+[![MasterHead](https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-08-new-android-logo-evolution-1.gif)](https://github.com/Sarwesh2003)
 <h1 align="center">Hi 👋, I'm Sarwesh Khairnar</h1>
 <h3 align="center">Developer by passion and profession</h3>
-
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="sarwesh2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_int_32" target="blank"><img src="https://img.shields.io/twitter/follow/_int_32?logo=twitter&style=for-the-badge" alt="_int_32" /></a> </p>
