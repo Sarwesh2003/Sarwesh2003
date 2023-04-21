@@ -12,7 +12,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/_int_32" target="blank"><img src="https://img.shields.io/twitter/follow/_int_32?logo=twitter&style=for-the-badge" alt="_int_32" /></p>
+<p align="left"> <a href="https://twitter.com/_int_32" target="blank"><img src="https://img.shields.io/twitter/follow/_int_32?logo=twitter&style=for-the-badge" alt="_int_32" /></a></p>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 - 🌱 I’m currently learning **Data Structures and Algorithms, DevOps, Cloud**
