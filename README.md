@@ -1,49 +1,141 @@
-
-
-<h1 align="center">Hi 👋, I'm Sarwesh Khairnar</h1>
-<h3 align="center">Developer by passion and profession</h3>
-<p align="left"> <br><img src="https://komarev.com/ghpvc/?username=sarwesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="sarwesh2003" /> </p>
-<p>
-<img align = "left" alt = "Coding" height = "20%" width = "50%" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif"/>
-<img align = "right" alt = "Coding" height = "20%" width = "50%" src = "https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-08-new-android-logo-evolution-1.gif"/>
-
-</p>
-<br>
-
-
-
-<p align="left"> <a href="https://twitter.com/_int_32" target="blank"><img src="https://img.shields.io/twitter/follow/_int_32?logo=twitter&style=for-the-badge" alt="_int_32" /></a></p>
-
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-- 🌱 I’m currently learning **Data Structures and Algorithms, DevOps, Cloud**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sarwesh2003](https://github.com/Sarwesh2003)
-
-- 📝 I regularly upload solved questions [https://github.com/Sarwesh2003/LeetCode.git](https://github.com/Sarwesh2003/LeetCode.git)
-
-- 💬 Ask me about **Android, Java, Python, Flask, Firebase**
-
-- 📫 How to reach me **sarweshkhairnar@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DfL8Z2o6pJqXZAkocnfylwodt4SSnhYA/view?usp=share_link](https://drive.google.com/file/d/1DfL8Z2o6pJqXZAkocnfylwodt4SSnhYA/view?usp=share_link)
-
-- ⚡ Fun fact **This software developer's dedication to excellence is so strong, they never settle for less than perfect code and constantly strive to reach new heights in their career!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_int_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_int_32" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sarwesh-khairnar-1032b1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarwesh khairnar" height="30" width="40" /></a>
-<a href="https://instagram.com/sarweshk_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarweshk_10" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarwesh2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarwesh2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/int32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="int32" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarweshkhairnar/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarweshkhairnar/practice/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sarwesh+Khairnar;Java+%7C+Spring+Boot+%7C+Distributed+Systems;AI+Agents+%7C+Mobile+Apps+%7C+System+Design" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/sarwesh2003">
+    <img src="https://komarev.com/ghpvc/?username=sarwesh2003&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://twitter.com/_int_32">
+    <img src="https://img.shields.io/twitter/follow/_int_32?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarwesh-khairnar-1032b1201/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sarweshkhairnar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwesh2003&show_icons=true&locale=en&layout=compact" alt="sarwesh2003" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwesh2003&show_icons=true&locale=en" alt="sarwesh2003" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwesh2003&" alt="sarwesh2003" /></p>
+I'm a **backend-leaning software engineer** who loves building systems that scale — from mobile apps to distributed backends. Right now I'm going deep on fundamentals so I can use AI as leverage, not a crutch.
+
+- 🔭 Currently working on **Java, Spring Boot, Distributed Systems, AI Agents & Mobile Apps**
+- 🌱 Sharpening **System Design** and **Data Structures & Algorithms**
+- 🧠 Thesis for the vibe-coding era: **AI writes code fast — engineers who understand systems, trade-offs, and debugging ship products that last**
+- 💬 Ask me about **Java, Spring Boot, System Design, Android, AI Agents, Python**
+- 💼 Open to **Software Engineering roles & open-source collaborations**
+- 📫 Reach me at [sarweshkhairnar@gmail.com](mailto:sarweshkhairnar@gmail.com)
+- ⚡ Fun fact: I review AI-generated code like a senior reviews a junior — trust, but verify with tests
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Distributed Systems**
+
+![Backend](https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,mongodb,redis,kafka,docker,kubernetes)
+
+**Mobile**
+
+![Mobile](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,firebase)
+
+**AI & Agents**
+
+![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask)
+
+**Cloud & DevOps**
+
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,git,linux,bash,githubactions,terraform)
+
+**Languages I use daily:** Java • Kotlin • Python • SQL • Dart
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [**eTaka**](https://github.com/Sarwesh2003/eTaka) | Predict soild fertility using image and location | Java, Python | 🟢 Active |
+| [**DISHA**](https://github.com/Sarwesh2003/DISHA) | Google maps for specially abled people | Android SDK, Java, Python, Maps SDK | 🟢 Active |
+| [**Phish-Sheild**](https://github.com/Sarwesh2003/phish-sheild) | Detect suspicious and malicious URls | Machine Learning, HTML, CSS, JavaScript | 🟢 Active |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarwesh2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=C%2B%2B" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sarwesh2003&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarwesh2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwesh2003&theme=tokyo-night&bg_color=1A1B27&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/_int_32" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarwesh-khairnar-1032b1201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sarweshk_10" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/int32" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/sarwesh2003" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sarweshkhairnar/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1DfL8Z2o6pJqXZAkocnfylwodt4SSnhYA/view?usp=share_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180,240,300&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
+</p>
+
+<p align="center">
+  <i>⭐ Star my repos if you find them useful — and say hi, I don't bite!</i>
+</p>
