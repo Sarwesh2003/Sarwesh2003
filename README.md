@@ -72,7 +72,7 @@ I'm a **backend-leaning software engineer** who loves building systems that scal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=C%2B%2B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cpp,c%2B%2B&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -81,18 +81,10 @@ I'm a **backend-leaning software engineer** who loves building systems that scal
 
 ---
 
-### 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarwesh2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarwesh2003&theme=tokyo-night&bg_color=1A1B27&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0E75B6/sarwesh2003" alt="Contribution Graph" />
 </p>
 
 ---
