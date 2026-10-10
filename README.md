@@ -72,8 +72,41 @@ I'm a **backend-leaning software engineer** who loves building systems that scal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cpp,C%2B%2B&custom_title=Most%20Used%20Languages&cache_bust=3" alt="Top Languages" />
+  <b>Most Used Languages</b> · <i>curated — Java first</i><br>
+  <sub>what I actually build with (not auto-counted bytes)</sub>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,kotlin,dart,js,postgres" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="right"><b>☕ Java</b></td>
+    <td><code>████████████░░ 40%</code></td>
+    <td align="left">Spring Boot · System Design · DSA</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🐍 Python</b></td>
+    <td><code>████████░░░░░░ 25%</code></td>
+    <td align="left">AI Agents · ML · Flask</td>
+  </tr>
+  <tr>
+    <td align="right"><b>📱 Kotlin</b></td>
+    <td><code>██████░░░░░░░░ 15%</code></td>
+    <td align="left">Android · Jetpack Compose</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🎯 Dart</b></td>
+    <td><code>████░░░░░░░░░░ 10%</code></td>
+    <td align="left">Flutter</td>
+  </tr>
+  <tr>
+    <td align="right"><b>🌐 TypeScript / JS</b></td>
+    <td><code>███░░░░░░░░░░░ 10%</code></td>
+    <td align="left">Frontend & tooling</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sarwesh2003&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" />
