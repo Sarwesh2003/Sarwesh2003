@@ -72,7 +72,7 @@ I'm a **backend-leaning software engineer** who loves building systems that scal
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=LeetCode&hide=C%2B%2B&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwesh2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cpp,C%2B%2B&custom_title=Most%20Used%20Languages&cache_bust=3" alt="Top Languages" />
 </p>
 
 <p align="center">
