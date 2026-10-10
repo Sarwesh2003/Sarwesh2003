@@ -51,7 +51,7 @@ I'm a **backend-leaning software engineer** who loves building systems that scal
 
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,git,linux,bash,githubactions,terraform)
 
-**Languages I use daily:** Java • Kotlin • Python • SQL • Dart
+**Languages I use daily:** Java • Python • SQL • Spring Boot • Android
 
 ---
 
